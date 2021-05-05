@@ -1,1 +1,1 @@
-# Bitcoin_miner_for_Python
+# Bitcoin miner for Python
